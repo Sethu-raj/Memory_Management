@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/Module.symvers -T /home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/modules.order -i Module.symvers -e 

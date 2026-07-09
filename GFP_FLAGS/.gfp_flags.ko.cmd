@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/gfp_flags.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/gfp_flags.ko /home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/gfp_flags.o /home/sethuraj/MEMORY_MANGEMENT/GFP_FLAGS/gfp_flags.mod.o

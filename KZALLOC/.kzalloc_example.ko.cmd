@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/KZALLOC/kzalloc_example.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/MEMORY_MANGEMENT/KZALLOC/kzalloc_example.ko /home/sethuraj/MEMORY_MANGEMENT/KZALLOC/kzalloc_example.o /home/sethuraj/MEMORY_MANGEMENT/KZALLOC/kzalloc_example.mod.o

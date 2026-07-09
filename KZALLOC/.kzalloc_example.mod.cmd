@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/KZALLOC/kzalloc_example.mod := printf '%s\n'   kzalloc_example.o | awk '!x[$$0]++ { print("/home/sethuraj/MEMORY_MANGEMENT/KZALLOC/"$$0) }' > /home/sethuraj/MEMORY_MANGEMENT/KZALLOC/kzalloc_example.mod
