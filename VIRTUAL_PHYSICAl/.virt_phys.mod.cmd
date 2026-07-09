@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.mod := printf '%s\n'   virt_phys.o | awk '!x[$$0]++ { print("/home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/"$$0) }' > /home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.mod

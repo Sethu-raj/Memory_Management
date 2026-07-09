@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/struct_page/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sethuraj/MEMORY_MANGEMENT/struct_page/Module.symvers -T /home/sethuraj/MEMORY_MANGEMENT/struct_page/modules.order -i Module.symvers -e 

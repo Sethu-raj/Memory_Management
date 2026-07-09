@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/Module.symvers -T /home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/modules.order -i Module.symvers -e 

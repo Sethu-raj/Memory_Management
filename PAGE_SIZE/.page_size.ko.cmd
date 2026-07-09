@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/page_size.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/page_size.ko /home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/page_size.o /home/sethuraj/MEMORY_MANGEMENT/PAGE_SIZE/page_size.mod.o

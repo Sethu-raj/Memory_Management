@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.ko /home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.o /home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.mod.o

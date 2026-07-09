@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.mod := printf '%s\n'   struct_page.o | awk '!x[$$0]++ { print("/home/sethuraj/MEMORY_MANGEMENT/struct_page/"$$0) }' > /home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.mod

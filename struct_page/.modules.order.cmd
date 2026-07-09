@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/struct_page/modules.order := {   echo /home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.o; :; } > /home/sethuraj/MEMORY_MANGEMENT/struct_page/modules.order

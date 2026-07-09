@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/modules.order := {   echo /home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/virt_phys.o; :; } > /home/sethuraj/MEMORY_MANGEMENT/VIRTUAL_PHYSICAl/modules.order

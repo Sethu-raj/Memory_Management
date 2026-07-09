@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.ko /home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.o /home/sethuraj/MEMORY_MANGEMENT/struct_page/struct_page.mod.o
